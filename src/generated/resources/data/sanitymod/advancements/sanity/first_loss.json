@@ -1,0 +1,29 @@
+{
+  "parent": "sanitymod:sanity/root",
+  "criteria": {
+    "lost_sanity": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancement.inmod.sanity.first_loss.desc"
+    },
+    "frame": "task",
+    "hidden": false,
+    "icon": {
+      "item": "minecraft:ender_eye"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancement.inmod.sanity.first_loss.title"
+    }
+  },
+  "requirements": [
+    [
+      "lost_sanity"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,19 @@
+// 1.20.1	2025-09-21T02:58:33.3577561	Tags for minecraft:block mod id sanitymod
+572e252231e90810f9680389de60327a58660e64 data/forge/tags/blocks/needs_netherite_tool.json
+764795be356e4498bc62c5edb26b7f4b4cff9aa8 data/minecraft/tags/blocks/buttons.json
+a93bf1c4cef2eefba60284018da49786e48e7fed data/minecraft/tags/blocks/doors.json
+12f6a22ab98e87e7ff9abd687ff36d362f448342 data/minecraft/tags/blocks/fences.json
+fb69d5ef62a35a4c12bf1944da90b3fdf0b4f64f data/minecraft/tags/blocks/fence_gates.json
+ac08ccdfbf960bb5961cdee4a353cf19bedf9e4e data/minecraft/tags/blocks/flowers.json
+246cf5d79bfe57c79b5fc3bb6a3bb2d9c0eea37e data/minecraft/tags/blocks/leaves.json
+06c87c59a05879b329b9dd91ceefbedb04813261 data/minecraft/tags/blocks/logs.json
+d1f617a5b581cfc8d7bbf9a4985707e8221c0b26 data/minecraft/tags/blocks/logs_that_burn.json
+b3fc3f57d04e8f97d439657094adb7250bc68894 data/minecraft/tags/blocks/mineable/pickaxe.json
+637b69d12d0a1274f9c7a9a7d7ef5431fd26283d data/minecraft/tags/blocks/needs_diamond_tool.json
+3cef1884fa207e7d76c5008be2cb2979188e2806 data/minecraft/tags/blocks/planks.json
+85eaefca3a29b74949b028ddf4f04d832d1b54c9 data/minecraft/tags/blocks/pressure_plates.json
+54192840bb7063a7722feb4548a786704a1d0525 data/minecraft/tags/blocks/slabs.json
+ac08ccdfbf960bb5961cdee4a353cf19bedf9e4e data/minecraft/tags/blocks/small_flowers.json
+7d936214a1da9f75b2f6b4a9dbbc589e53b4309e data/minecraft/tags/blocks/stairs.json
+edfe49f4117f830256cbe0ca8b4987842e59a2ef data/minecraft/tags/blocks/trapdoors.json
+d1f617a5b581cfc8d7bbf9a4985707e8221c0b26 data/sanitymod/tags/blocks/moonlit_tree_log.json

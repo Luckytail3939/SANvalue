@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "sanitymod:block/deepslate_moonlight_silver_ore"
+  }
+}

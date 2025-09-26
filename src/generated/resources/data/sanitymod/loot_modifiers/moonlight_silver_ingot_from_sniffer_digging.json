@@ -1,0 +1,11 @@
+{
+  "type": "sanitymod:replace_item",
+  "chance": 0.2,
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:archaeology/desert_pyramid"
+    }
+  ],
+  "item": "sanitymod:moonlight_silver_ingot"
+}

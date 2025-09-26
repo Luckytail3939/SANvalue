@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "bonus_rolls": 0.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "sanitymod:raw_moonlight_silver_block"
+        }
+      ],
+      "rolls": 1.0
+    }
+  ],
+  "random_sequence": "sanitymod:blocks/raw_moonlight_silver_block"
+}

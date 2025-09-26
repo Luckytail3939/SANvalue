@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/button",
+  "textures": {
+    "texture": "sanitymod:block/moonlit_tree_planks"
+  }
+}

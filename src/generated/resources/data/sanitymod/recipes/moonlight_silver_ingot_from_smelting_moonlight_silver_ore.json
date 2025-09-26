@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 300,
+  "experience": 1.0,
+  "group": "moonlight_silver",
+  "ingredient": {
+    "item": "sanitymod:moonlight_silver_ore"
+  },
+  "result": "sanitymod:moonlight_silver_ingot"
+}

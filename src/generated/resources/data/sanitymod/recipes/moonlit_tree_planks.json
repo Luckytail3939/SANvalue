@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "building",
+  "group": "planks",
+  "ingredients": [
+    {
+      "tag": "sanitymod:moonlit_tree_log"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "sanitymod:moonlit_tree_planks"
+  }
+}

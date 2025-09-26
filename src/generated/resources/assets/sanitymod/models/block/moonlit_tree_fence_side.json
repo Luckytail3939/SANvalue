@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/fence_side",
+  "textures": {
+    "texture": "sanitymod:block/moonlit_tree_planks"
+  }
+}

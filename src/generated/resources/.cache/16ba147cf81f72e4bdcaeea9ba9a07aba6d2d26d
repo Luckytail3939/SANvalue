@@ -1,0 +1,8 @@
+// 1.20.1	2025-09-21T02:58:33.356245	Tags for minecraft:item mod id sanitymod
+ac08ccdfbf960bb5961cdee4a353cf19bedf9e4e data/minecraft/tags/items/flowers.json
+246cf5d79bfe57c79b5fc3bb6a3bb2d9c0eea37e data/minecraft/tags/items/leaves.json
+06c87c59a05879b329b9dd91ceefbedb04813261 data/minecraft/tags/items/logs.json
+d1f617a5b581cfc8d7bbf9a4985707e8221c0b26 data/minecraft/tags/items/logs_that_burn.json
+3cef1884fa207e7d76c5008be2cb2979188e2806 data/minecraft/tags/items/planks.json
+ac08ccdfbf960bb5961cdee4a353cf19bedf9e4e data/minecraft/tags/items/small_flowers.json
+d1f617a5b581cfc8d7bbf9a4985707e8221c0b26 data/sanitymod/tags/items/moonlit_tree_log.json

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "sanitymod:item/raw_sunlight_stone"
+  }
+}

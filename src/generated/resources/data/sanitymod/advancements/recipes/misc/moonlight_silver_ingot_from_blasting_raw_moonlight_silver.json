@@ -1,0 +1,35 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_raw_moonlight_silver": {
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "sanitymod:raw_moonlight_silver"
+            ]
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipe": "sanitymod:moonlight_silver_ingot_from_blasting_raw_moonlight_silver"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_raw_moonlight_silver",
+      "has_the_recipe"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "sanitymod:moonlight_silver_ingot_from_blasting_raw_moonlight_silver"
+    ]
+  },
+  "sends_telemetry_event": false
+}

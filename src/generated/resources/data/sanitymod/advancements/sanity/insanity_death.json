@@ -1,0 +1,29 @@
+{
+  "parent": "sanitymod:sanity/first_loss",
+  "criteria": {
+    "insanity_death": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "announce_to_chat": true,
+    "description": {
+      "translate": "advancement.inmod.sanity.insanity_death.desc"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "item": "minecraft:wither_skeleton_skull"
+    },
+    "show_toast": true,
+    "title": {
+      "translate": "advancement.inmod.sanity.insanity_death.title"
+    }
+  },
+  "requirements": [
+    [
+      "insanity_death"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

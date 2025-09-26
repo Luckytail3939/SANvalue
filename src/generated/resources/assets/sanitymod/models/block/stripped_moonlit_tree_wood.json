@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_column",
+  "textures": {
+    "end": "sanitymod:block/stripped_moonlit_tree_log",
+    "side": "sanitymod:block/stripped_moonlit_tree_log"
+  }
+}

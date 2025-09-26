@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cube_all",
+  "textures": {
+    "all": "sanitymod:block/raw_moonlight_silver_block"
+  }
+}

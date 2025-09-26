@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "sanitymod:block/moonlit_tree_slab"
+    },
+    "type=double": {
+      "model": "sanitymod:block/moonlit_tree_planks"
+    },
+    "type=top": {
+      "model": "sanitymod:block/moonlit_tree_slab_top"
+    }
+  }
+}

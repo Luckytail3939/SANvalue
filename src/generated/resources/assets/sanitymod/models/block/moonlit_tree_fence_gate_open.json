@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/template_fence_gate_open",
+  "textures": {
+    "texture": "sanitymod:block/moonlit_tree_planks"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "sanitymod:replace_item",
+  "chance": 0.125,
+  "conditions": [
+    {
+      "condition": "forge:loot_table_id",
+      "loot_table_id": "minecraft:gameplay/sniffer_digging"
+    }
+  ],
+  "item": "sanitymod:moonlight_silver_ingot"
+}
